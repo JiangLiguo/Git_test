@@ -9,6 +9,10 @@ int main(int argc, char* argv[])
     std::cout<< "Changed again\n";
     std::cout<<"Changed aaa\n";
 
-    std::cout<<"May be conflict\n";
+
+
+
+    std::cout<<"HH";
+    
     return 0;
 }
